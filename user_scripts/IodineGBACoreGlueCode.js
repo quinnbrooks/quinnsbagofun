@@ -110,6 +110,7 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap"
+    "spiderman2":"spiderman2"
 };
 var Iodine = null;
 var Blitter = null;
